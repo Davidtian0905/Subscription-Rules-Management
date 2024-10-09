@@ -12,6 +12,8 @@ DOMAIN-SUFFIX,gemini.google.com
 DOMAIN-SUFFIX,makersuite.google.com
 DOMAIN-SUFFIX,openaiapi-site.azureedge.net
 DOMAIN-SUFFIX,client-api.arkoselabs.com
+DOMAIN-SUFFIX,coze.com
+
 
 # 绘画大模型
 DOMAIN-SUFFIX,perplexity.ai
