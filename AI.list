@@ -2,18 +2,21 @@
 # 域名关键字匹配
 DOMAIN-KEYWORD,anthropic
 DOMAIN-KEYWORD,Claude
+
 # 大模型
 DOMAIN-SUFFIX,openai.com
 DOMAIN-SUFFIX,chatgpt.com
 DOMAIN-SUFFIX,anthropic.com
-DOMAIN-SUFFIX,claude.ai.com
+DOMAIN-SUFFIX,claude.ai
 DOMAIN-SUFFIX,bard.google.com
 DOMAIN-SUFFIX,gemini.google.com
 DOMAIN-SUFFIX,makersuite.google.com
 DOMAIN-SUFFIX,openaiapi-site.azureedge.net
 DOMAIN-SUFFIX,client-api.arkoselabs.com
 DOMAIN-SUFFIX,coze.com
-
+DOMAIN-SUFFIX,dify.ai
+DOMAIN-SUFFIX,fastgpt.run
+DOMAIN-SUFFIX,cloud.dify.ai
 
 # 绘画大模型
 DOMAIN-SUFFIX,perplexity.ai
@@ -28,10 +31,14 @@ DOMAIN-SUFFIX,sentry.io
 
 # 语音大模型
 DOMAIN-SUFFIX,suno.com
-
+DOMAIN-SUFFIX,suno.ai
+DOMAIN-SUFFIX,demoai.com
 
 # 视频大模型
-
+DOMAIN-SUFFIX,heygen.com
+DOMAIN-SUFFIX,pika.art
+DOMAIN-SUFFIX,ideogram.ai
+DOMAIN-SUFFIX,character.ai
 
 # 其他
 DOMAIN-SUFFIX,github.com
@@ -39,3 +46,34 @@ DOMAIN-SUFFIX,auth0.com
 DOMAIN-SUFFIX,stripe.com
 DOMAIN-SUFFIX,docker.io
 DOMAIN-SUFFIX,docker.com
+DOMAIN-SUFFIX,slack.com
+DOMAIN-SUFFIX,efanccyun.org
+DOMAIN-SUFFIX,zh.z-library.rs
+DOMAIN-SUFFIX,afternic.com
+DOMAIN-SUFFIX,audionetwork.com
+DOMAIN-SUFFIX,ttsmaker.com
+DOMAIN-SUFFIX,videogameaudio.com
+DOMAIN-SUFFIX,rewind.ai
+DOMAIN-SUFFIX,bewildcard.com
+DOMAIN-SUFFIX,epicgames.com
+DOMAIN-SUFFIX,motu.com
+DOMAIN-SUFFIX,singlelogin.re
+DOMAIN-SUFFIX,en.kalashnikovgroup.ru
+DOMAIN-SUFFIX,apple.com
+DOMAIN-SUFFIX,dolby.com
+DOMAIN-SUFFIX,f95zone.to
+DOMAIN-SUFFIX,instagram.com
+DOMAIN-SUFFIX,ipleak.net
+DOMAIN-SUFFIX,browserleaks.com
+DOMAIN-SUFFIX,boomy.com
+DOMAIN-SUFFIX,ltx.studio
+DOMAIN-SUFFIX,freelancer.com
+DOMAIN-SUFFIX,coindesk.com
+DOMAIN-SUFFIX,1.1.1.1
+DOMAIN-SUFFIX,tunnelbroker.net
+DOMAIN-SUFFIX,limit.888005.xyz
+DOMAIN-SUFFIX,aifungroup.cn
+
+
+
+
