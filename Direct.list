@@ -4,6 +4,7 @@
 # 域名后缀匹配
 DOMAIN-SUFFIX,aifungroup.cn
 DOMAIN-SUFFIX,tailscale.com
+DOMAIN-SUFFIX,aurrel.top
 
 # 本地/局域网地址
 DOMAIN-SUFFIX,ip6-localhost
