@@ -31,12 +31,14 @@ DOMAIN-SUFFIX,sentry.io
 DOMAIN-SUFFIX,suno.com
 DOMAIN-SUFFIX,suno.ai
 DOMAIN-SUFFIX,demoai.com
+DOMAIN-SUFFIX,hailuo.ai
 
 # 视频大模型
 DOMAIN-SUFFIX,heygen.com
 DOMAIN-SUFFIX,pika.art
 DOMAIN-SUFFIX,ideogram.ai
 DOMAIN-SUFFIX,character.ai
+DOMAIN-SUFFIX,hailuoai.video
 
 # 其他
 DOMAIN-SUFFIX,github.com
