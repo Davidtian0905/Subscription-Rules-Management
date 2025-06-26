@@ -18,6 +18,7 @@ DOMAIN-SUFFIX,ipleak.net
 DOMAIN-SUFFIX,aistudio.google.com
 DOMAIN-SUFFIX,google.com
 DOMAIN-SUFFIX,openrouter.ai
+DOMAIN-SUFFIX,console.cloud.google.com
 
 # 绘画大模型
 DOMAIN-SUFFIX,perplexity.ai
