@@ -1,13 +1,14 @@
 # 内容：OpenAi Bard anthropic
 
 # 大模型
+DOMAIN-SUFFIX,google.com
 DOMAIN-SUFFIX,openai.com
 DOMAIN-SUFFIX,chatgpt.com
 DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,claude.ai
 DOMAIN-SUFFIX,bard.google.com
 DOMAIN-SUFFIX,gemini.google.com
-DOMAIN-SUFFIX,google.com
+DOMAIN-SUFFIX,deepmind.google
 DOMAIN-SUFFIX,makersuite.google.com
 DOMAIN-SUFFIX,openaiapi-site.azureedge.net
 DOMAIN-SUFFIX,client-api.arkoselabs.com
