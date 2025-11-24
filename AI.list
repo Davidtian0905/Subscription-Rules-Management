@@ -42,6 +42,7 @@ DOMAIN-SUFFIX,suno.com
 DOMAIN-SUFFIX,suno.ai
 DOMAIN-SUFFIX,demoai.com
 DOMAIN-SUFFIX,hailuo.ai
+DOMAIN-SUFFIX,elevenlabs.io
 
 # 视频大模型
 DOMAIN-SUFFIX,heygen.com
