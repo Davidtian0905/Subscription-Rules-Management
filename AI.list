@@ -1,15 +1,14 @@
 # 内容：OpenAi Bard anthropic
 
-# 大模型
+# Google大模型
 DOMAIN-SUFFIX,google.com
 DOMAIN-SUFFIX,googleapis.com
-DOMAIN-SUFFIX,bard.google.com
-DOMAIN-SUFFIX,gemini.google.com
-DOMAIN-SUFFIX,deepmind.google
-DOMAIN-SUFFIX,makersuite.google.com
-DOMAIN-SUFFIX,aistudio.google.com
-DOMAIN-SUFFIX,console.cloud.google.com
+DOMAIN-SUFFIX,youtube.com
+DOMAIN-SUFFIX,gstatic.com
+DOMAIN-SUFFIX,ytimg.com
+DOMAIN-SUFFIX,googlevideo.com
 
+# 其他大模型
 DOMAIN-SUFFIX,openai.com
 DOMAIN-SUFFIX,chatgpt.com
 DOMAIN-SUFFIX,anthropic.com
@@ -25,8 +24,6 @@ DOMAIN-SUFFIX,openrouter.ai
 DOMAIN-SUFFIX,trae.ai
 DOMAIN-SUFFIX,grok.com
 DOMAIN-SUFFIX,minimax.io
-
-
 
 # 绘画大模型
 DOMAIN-SUFFIX,perplexity.ai
