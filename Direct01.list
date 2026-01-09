@@ -13,6 +13,10 @@ DOMAIN-SUFFIX,wps.ai
 # 公司内部域名/服务
 DOMAIN-SUFFIX,swarm.review.com
 DOMAIN-SUFFIX,confluence.sss.com
+HOST-SUFFIX,review.com
+HOST-SUFFIX,sss.com
+HOST,swarm.review.com
+HOST,confluence.sss.com
 
 # IP段匹配（公司内部）
 IP-CIDR,192.168.5.112/32,no-resolve
