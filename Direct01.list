@@ -10,6 +10,21 @@ DOMAIN-SUFFIX,tailscale.com
 DOMAIN-SUFFIX,wps.com
 DOMAIN-SUFFIX,wps.ai
 
+# 公司内部域名/服务
+DOMAIN-SUFFIX,swarm.review.com
+DOMAIN-SUFFIX,confluence.sss.com
+
+# IP段匹配（公司内部）
+IP-CIDR,192.168.5.112/32,no-resolve
+IP-CIDR,192.168.50.180/32,no-resolve
+IP-CIDR,169.254.130.82/32,no-resolve
+
+# 公司常用内网网段（推荐全部加入，防止任何内网流量走代理）
+IP-CIDR,192.168.0.0/16,no-resolve
+IP-CIDR,10.0.0.0/8,no-resolve
+IP-CIDR,172.16.0.0/12,no-resolve
+IP-CIDR,169.254.0.0/16,no-resolve
+
 # 域名关键字匹配
 DOMAIN-KEYWORD,baidu
 
