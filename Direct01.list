@@ -10,6 +10,11 @@ DOMAIN-SUFFIX,tailscale.com
 DOMAIN-SUFFIX,wps.com
 DOMAIN-SUFFIX,wps.ai
 
+#Tailscale
+IP-CIDR,100.64.0.0/10
+DOMAIN-KEYWORD,tailscale
+DOMAIN-SUFFIX,tailscale.com
+
 # 公司内部域名/服务
 DOMAIN-SUFFIX,swarm.review.com
 DOMAIN-SUFFIX,confluence.sss.com
